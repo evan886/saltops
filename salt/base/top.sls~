@@ -1,0 +1,4 @@
+#正则匹配
+base:
+  '*':
+    - webserver
